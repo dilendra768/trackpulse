@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Generated model and database artifacts
+models/
+data/*.db
+
+# Local files
+.DS_Store
+.vscode/
+.idea/
